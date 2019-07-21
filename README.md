@@ -1,3 +1,5 @@
-# Movie-recommendation-system-with-Python
-Basic recommendation system by suggesting movies that are most similar to a particular movie.
-Used sample of this [database](https://grouplens.org/datasets/movielens/) to built the system, which is not a robust one, just tells you which movies are more similar to your movie of choice.
+# Movie-Recommender-System
+Movie Recommender System in Python using MovieLens DataSet
+
+Created a movie recommender system in python using MovieLens DataSet, that suggests new movies to the user based on their viewing history and according to the user’s choices. Memory-Based(singular value decomposition) Collaborative Filtering and Model-Based Collaborative Filtering(cosine similarity) were used to build the recommender system.
+
